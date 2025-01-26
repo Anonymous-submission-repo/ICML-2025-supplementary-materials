@@ -4,6 +4,8 @@
 
 This repository is the implementation of "Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems". This version of the code is made to facilitate the peer review of the ICML 2025 submission of our paper. We plan to release the code accompanying the formal publication of this paper.
 
+**Note: The anonymous github may not support uploading data larger than 8 MB. We provide a copy of the full dataset and code in the supplementary materials.**
+
 <img src="figs/overview.png" alt="overview" width="500">
 
 ## Requirements
@@ -48,7 +50,7 @@ We follow the following guide to annotate these failure logs.
 
 ## Constructed Data
 
-
+The construcrted dataset is in Who&When folder.
 
 <span style="color:red;">The anonymous github may not support uploading data larger than 8 MB. We provide a copy of the dataset and code in the supplementary materials.</span>
 
